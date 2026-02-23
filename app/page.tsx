@@ -11,6 +11,7 @@ export default function Home() {
         <li className="p-3 border rounded">Cambio de Aceite</li>
         <li className="p-3 border rounded">Revisión de Frenos</li>
         <li className="p-3 border rounded">Reparación de Aire Acondicionado</li>
+        <li className="p-3 border rounded">Lavacar</li>
       </ul>
     </main>
   );
